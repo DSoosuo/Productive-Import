@@ -1,0 +1,165 @@
+Person,Absence Category,Started On,Ended On
+douglas@appsilon.com,Vacation,2026-01-15,2026-01-16
+douglas@appsilon.com,Vacation,2026-03-06,2026-03-06
+douglas@appsilon.com,Vacation,2026-03-12,2026-03-13
+douglas@appsilon.com,PDD,2026-04-23,2026-04-24
+andre.verissimo@appsilon.com,Vacation,2026-01-02,2026-01-02
+andre.verissimo@appsilon.com,Vacation,2026-02-16,2026-02-16
+andre.verissimo@appsilon.com,Vacation,2026-05-18,2026-05-29
+andre.verissimo@appsilon.com,Vacation,2026-06-11,2026-06-12
+andre.verissimo@appsilon.com,Vacation,2026-08-31,2026-08-31
+andre.verissimo@appsilon.com,Vacation,2026-10-01,2026-10-02
+andre.verissimo@appsilon.com,Vacation,2026-10-06,2026-10-14
+oriol@appsilon.com,Vacation,2026-01-02,2026-01-08
+oriol@appsilon.com,Vacation,2026-03-30,2026-04-01
+oriol@appsilon.com,Vacation,2026-08-10,2026-08-28
+mateusz.kolomanski@appsilon.com,Vacation,2026-01-02,2026-01-05
+mateusz.kolomanski@appsilon.com,Vacation,2026-02-13,2026-02-13
+mateusz.kolomanski@appsilon.com,Vacation,2026-02-27,2026-02-27
+mateusz.kolomanski@appsilon.com,PDD,2026-04-23,2026-04-24
+tymoteusz.makowski@appsilon.com,Vacation,2026-01-01,2026-01-06
+tymoteusz.makowski@appsilon.com,Sick leave,2026-01-08,2026-01-19
+tymoteusz.makowski@appsilon.com,Sick leave,2026-01-23,2026-02-06
+tymoteusz.makowski@appsilon.com,Vacation,2026-02-13,2026-02-13
+tymoteusz.makowski@appsilon.com,Vacation,2026-02-20,2026-02-20
+tymoteusz.makowski@appsilon.com,Vacation,2026-02-27,2026-03-06
+tymoteusz.makowski@appsilon.com,Vacation,2026-03-13,2026-03-13
+tymoteusz.makowski@appsilon.com,Vacation,2026-03-20,2026-03-20
+tymoteusz.makowski@appsilon.com,Vacation,2026-03-27,2026-03-27
+tymoteusz.makowski@appsilon.com,Vacation,2026-04-03,2026-04-03
+tymoteusz.makowski@appsilon.com,Vacation,2026-04-11,2026-04-11
+tymoteusz.makowski@appsilon.com,Vacation,2026-04-17,2026-04-17
+tymoteusz.makowski@appsilon.com,PDD,2026-04-23,2026-04-24
+tymoteusz.makowski@appsilon.com,Vacation,2026-05-08,2026-05-08
+tymoteusz.makowski@appsilon.com,Vacation,2026-05-15,2026-05-15
+tymoteusz.makowski@appsilon.com,Vacation,2026-05-22,2026-05-22
+tymoteusz.makowski@appsilon.com,Vacation,2026-05-29,2026-05-29
+tymoteusz.makowski@appsilon.com,Vacation,2026-06-05,2026-06-05
+tymoteusz.makowski@appsilon.com,Vacation,2026-06-12,2026-06-12
+tymoteusz.makowski@appsilon.com,Vacation,2026-06-19,2026-06-19
+tymoteusz.makowski@appsilon.com,Vacation,2026-06-26,2026-06-26
+tymoteusz.makowski@appsilon.com,Vacation,2026-09-04,2026-09-04
+tymoteusz.makowski@appsilon.com,Vacation,2026-09-11,2026-09-11
+tymoteusz.makowski@appsilon.com,Vacation,2026-09-18,2026-09-18
+tymoteusz.makowski@appsilon.com,Vacation,2026-09-25,2026-09-25
+tymoteusz.makowski@appsilon.com,Vacation,2026-10-02,2026-10-02
+mariano@appsilon.com,Vacation,2026-01-02,2026-01-02
+mariano@appsilon.com,Vacation,2026-02-02,2026-02-13
+mariano@appsilon.com,Vacation,2026-02-19,2026-02-20
+mariano@appsilon.com,Vacation,2026-04-15,2026-04-30
+rodrigo.requejo@appsilon.com,Vacation,2026-01-26,2026-02-02
+sasha.dcosta@appsilon.com,Vacation,2026-01-02,2026-01-02
+sasha.dcosta@appsilon.com,Sick leave,2026-01-26,2026-01-28
+sasha.dcosta@appsilon.com,Sick leave,2026-03-11,2026-03-11
+julian.guillo@appsilon.com,Vacation,2026-08-24,2026-09-11
+richard.fogaca@appsilon.com,Vacation,2026-01-02,2026-01-02
+richard.fogaca@appsilon.com,Vacation,2026-02-26,2026-02-26
+pierina.ponce@appsilon.com,Vacation,2026-01-29,2026-01-30
+pierina.ponce@appsilon.com,Vacation,2026-02-16,2026-02-16
+philipp.kochanski@appsilon.com,Vacation,2026-01-15,2026-01-16
+philipp.kochanski@appsilon.com,PDD,2026-04-23,2026-04-24
+jakub.sobolewski@appsilon.com,Vacation,2026-01-02,2026-01-02
+jakub.sobolewski@appsilon.com,Vacation,2026-01-19,2026-02-02
+jakub.sobolewski@appsilon.com,PDD,2026-04-23,2026-04-24
+lukasz.zasada@contractors.appsilon.com,Vacation,2026-01-02,2026-01-06
+can.taslicukur@appsilon.com,Vacation,2026-01-07,2026-01-09
+can.taslicukur@appsilon.com,Vacation,2026-03-16,2026-03-27
+katarzyna.graczyk@appsilon.com,Vacation,2026-01-02,2026-01-05
+katarzyna.graczyk@appsilon.com,Sick leave,2026-02-12,2026-02-13
+arman.manjian@contractors.appsilon.com,Vacation,2026-01-12,2026-01-13
+arman.manjian@contractors.appsilon.com,Sick leave,2026-02-27,2026-02-27
+jakub.wasala@appsilon.com,Vacation,2026-01-02,2026-01-05
+jakub.wasala@appsilon.com,Vacation,2026-02-13,2026-02-13
+jakub.wasala@appsilon.com,Vacation,2026-03-09,2026-03-11
+jakub.wasala@appsilon.com,PDD,2026-04-23,2026-04-24
+dominik.rafacz@appsilon.com,Vacation,2026-01-02,2026-01-02
+dominik.rafacz@appsilon.com,Sick leave,2026-01-05,2026-01-05
+dominik.rafacz@appsilon.com,Vacation,2026-01-27,2026-01-27
+dominik.rafacz@appsilon.com,Vacation,2026-02-13,2026-02-16
+dominik.rafacz@appsilon.com,PDD,2026-04-23,2026-04-24
+milos@appsilon.com,Vacation,2026-01-05,2026-01-14
+milos@appsilon.com,Vacation,2026-04-08,2026-04-09
+milos@appsilon.com,Vacation,2026-04-14,2026-04-17
+milos@appsilon.com,Vacation,2026-07-20,2026-07-24
+milos@appsilon.com,Vacation,2026-08-17,2026-08-25
+alexandros@appsilon.com,Vacation,2026-01-02,2026-01-02
+alexandros@appsilon.com,Vacation,2026-02-20,2026-02-23
+alexandros@appsilon.com,Vacation,2026-04-07,2026-04-13
+alexandros@appsilon.com,Vacation,2026-06-05,2026-06-05
+alexandros@appsilon.com,Vacation,2026-06-26,2026-06-26
+alexandros@appsilon.com,Vacation,2026-07-27,2026-07-31
+[NEEDS EMAIL] Remy Gavard,Vacation,2026-02-12,2026-02-12
+[NEEDS EMAIL] Remy Gavard,Vacation,2026-02-16,2026-02-20
+[NEEDS EMAIL] Remy Gavard,Vacation,2026-02-26,2026-02-27
+pavel.demin@appsilon.com,Vacation,2026-01-01,2026-01-02
+pavel.demin@appsilon.com,Vacation,2026-02-25,2026-02-26
+pavel.demin@appsilon.com,PDD,2026-04-23,2026-04-24
+bartosz.rozek@appsilon.com,Vacation,2026-01-02,2026-01-05
+tresna.tanesya@appsilon.com,Vacation,2026-02-02,2026-02-17
+kamil@appsilon.com,Vacation,2026-01-02,2026-01-05
+kamil@appsilon.com,Vacation,2026-01-15,2026-01-16
+kamil@appsilon.com,Vacation,2026-02-03,2026-02-03
+kamil@appsilon.com,PDD,2026-04-23,2026-04-24
+wahaduzzaman@appsilon.com,Vacation,2026-01-15,2026-01-23
+wahaduzzaman@appsilon.com,Vacation,2026-02-04,2026-02-04
+wahaduzzaman@appsilon.com,Vacation,2026-02-26,2026-02-26
+ryszard@appsilon.com,Vacation,2026-04-07,2026-04-10
+ryszard@appsilon.com,PDD,2026-04-23,2026-04-24
+ryszard@appsilon.com,Vacation,2026-05-11,2026-05-22
+ryszard@appsilon.com,Vacation,2026-06-05,2026-06-05
+ryszard@appsilon.com,Vacation,2026-08-31,2026-09-11
+ryszard@appsilon.com,Vacation,2026-11-12,2026-11-13
+ryszard@appsilon.com,Vacation,2026-12-21,2026-12-23
+ryszard@appsilon.com,Vacation,2026-12-28,2026-12-30
+giulia.pais@appsilon.com,Vacation,2026-01-02,2026-01-05
+giulia.pais@appsilon.com,Vacation,2026-03-16,2026-03-17
+nataliia.bakalo@appsilon.com,Vacation,2026-01-02,2026-01-05
+nataliia.bakalo@appsilon.com,Vacation,2026-02-09,2026-02-10
+nataliia.bakalo@appsilon.com,Sick leave,2026-03-12,2026-03-13
+nataliia.bakalo@appsilon.com,Vacation,2026-03-20,2026-03-25
+recle.vibal@appsilon.com,Vacation,2026-01-02,2026-01-02
+recle.vibal@appsilon.com,Vacation,2026-01-30,2026-01-30
+recle.vibal@appsilon.com,Vacation,2026-02-03,2026-02-04
+recle.vibal@appsilon.com,Sick leave,2026-02-09,2026-02-13
+recle.vibal@appsilon.com,Vacation,2026-03-04,2026-03-04
+recle.vibal@appsilon.com,Vacation,2026-03-09,2026-03-10
+recle.vibal@appsilon.com,Vacation,2026-03-30,2026-04-01
+recle.vibal@appsilon.com,Vacation,2026-04-06,2026-04-07
+recle.vibal@appsilon.com,Vacation,2026-05-25,2026-05-27
+kuba@appsilon.com,Vacation,2026-01-02,2026-01-05
+kuba@appsilon.com,Vacation,2026-03-09,2026-03-20
+kuba@appsilon.com,Sick leave,2026-04-16,2026-04-16
+kuba@appsilon.com,PDD,2026-04-23,2026-04-24
+kuba@appsilon.com,Vacation,2026-06-05,2026-06-05
+kuba@appsilon.com,Vacation,2026-06-15,2026-06-19
+vedha@appsilon.com,Vacation,2026-01-02,2026-01-02
+vedha@appsilon.com,PDD,2026-02-19,2026-02-20
+[NEEDS EMAIL] Erick Facure Giaretta,Vacation,2026-01-19,2026-03-03
+artur.jarzyna@appsilon.com,Vacation,2026-01-02,2026-01-08
+artur.jarzyna@appsilon.com,Vacation,2026-01-15,2026-01-15
+artur.jarzyna@appsilon.com,Vacation,2026-02-11,2026-02-13
+artur.jarzyna@appsilon.com,Vacation,2026-03-16,2026-03-19
+edgar.kaloyan@appsilon.com,Vacation,2026-02-09,2026-02-16
+dina.padalko@appsilon.com,Vacation,2026-01-02,2026-01-02
+dina.padalko@appsilon.com,Vacation,2026-03-13,2026-03-30
+dina.padalko@appsilon.com,Vacation,2026-06-22,2026-06-26
+ileana.saenz@appsilon.com,Vacation,2026-01-05,2026-01-05
+maja.tomczak@appsilon.com,Vacation,2026-01-02,2026-01-02
+maja.tomczak@appsilon.com,Vacation,2026-05-08,2026-05-08
+maja.tomczak@appsilon.com,Vacation,2026-06-12,2026-06-12
+pawel.tarnawski@appsilon.com,Vacation,2026-01-02,2026-01-05
+pawel.tarnawski@appsilon.com,Vacation,2026-02-03,2026-02-06
+dawid.strytynski@appsilon.com,Vacation,2026-01-05,2026-01-05
+dawid.strytynski@appsilon.com,PDD,2026-01-12,2026-01-12
+dawid.strytynski@appsilon.com,PDD,2026-01-19,2026-01-19
+dawid.strytynski@appsilon.com,PDD,2026-01-26,2026-01-26
+dawid.strytynski@appsilon.com,PDD,2026-01-30,2026-01-30
+dawid.strytynski@appsilon.com,Vacation,2026-03-16,2026-03-19
+rodrigo.requejo@appsilon.com,PDD,2026-01-19,2026-01-19
+rodrigo.requejo@appsilon.com,PDD,2026-02-13,2026-02-13
+rodrigo.requejo@appsilon.com,Vacation,2026-03-30,2026-04-01
+rodrigo.requejo@appsilon.com,Vacation,2026-04-06,2026-04-10
+krystian.warda@contractors.appsilon.com,Vacation,2026-01-02,2026-01-05
+krystian.warda@contractors.appsilon.com,Vacation,2026-02-20,2026-02-20
+krystian.warda@contractors.appsilon.com,Vacation,2026-04-13,2026-04-24
+samuel.calderon@appsilon.com,Vacation,2026-02-12,2026-03-31
