@@ -272,9 +272,8 @@ def main():
                 "Service": "",
                 "Person": person_id,
                 "Date": date_str,
-                "Note": "",
+                "Note": status,
                 "Time (minutes)": 480,
-                "Status": status,
             })
 
         # Merge consecutive absence days into ranges
@@ -315,7 +314,7 @@ def main():
     # Write Time entries CSV
     time_fields = [
         "Project", "Budget", "Deal", "Client", "Service Type",
-        "Service", "Person", "Date", "Note", "Time (minutes)", "Status",
+        "Service", "Person", "Date", "Note", "Time (minutes)",
     ]
     with open(TIME_ENTRIES_OUT, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=time_fields)
@@ -348,7 +347,7 @@ def main():
         print(f"  {b}")
 
     # Show tentative entries count
-    tentative = sum(1 for e in time_entries if e["Status"] == "tentative")
+    tentative = sum(1 for e in time_entries if e["Note"] == "tentative")
     print(f"\nTentative entries: {tentative}")
     print(f"Confirmed entries: {len(time_entries) - tentative}")
 
